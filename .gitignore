@@ -1,0 +1,13 @@
+*.jsonl
+*.csv
+wandb/
+myenv/
+.vscode/
+__pycache__/
+movie_lines.txt
+movie_titles_metadata.txt
+NO COPYRIGHT - UNITED STATES-0000.json
+.DS_Store
+model.ipynb
+model-20000.pt
+labels-20000.json

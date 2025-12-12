@@ -1,0 +1,3 @@
+This is the code behind my semester project for CSE 595: Natural Language Processing. The project is called "What year did you come from?: Predicting origin date of book and movie text". It creates an ordinal regression model that uses loss inspired by the CORN paper to classify book and movie text, sourced from the Cornell Movie Dialogs Corpus and Harvard Library Public Domain Corpus, into decades, trying to predict the origin date of the text. 
+
+A paper will be linked eventually. 
